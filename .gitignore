@@ -1,0 +1,11 @@
+node_modules/
+ai-visibility/
+*.csv
+
+# Credentials never belong in the repository.
+.env
+.env.*
+*.env
+credentials
+*credentials*.json
+*credentials*.env

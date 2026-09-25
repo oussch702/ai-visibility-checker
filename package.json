@@ -1,0 +1,44 @@
+{
+  "name": "ai-visibility-checker",
+  "version": "1.0.0",
+  "description": "Check whether ChatGPT, Gemini, Perplexity and Google's AI Overviews mention and cite your brand, and see what changed since the last run.",
+  "type": "module",
+  "bin": {
+    "ai-visibility-checker": "bin/ai-visibility-checker.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai-visibility",
+    "geo",
+    "aeo",
+    "generative-engine-optimization",
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "ai-overviews",
+    "seo",
+    "dataforseo",
+    "brand-monitoring"
+  ],
+  "homepage": "https://github.com/oussch702/ai-visibility-checker#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oussch702/ai-visibility-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oussch702/ai-visibility-checker/issues"
+  },
+  "author": "Oussama Chicha (https://aistrikeforce.com)",
+  "license": "MIT"
+}
