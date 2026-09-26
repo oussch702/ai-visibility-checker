@@ -11,7 +11,7 @@ Check whether AI answers mention your brand. ai-visibility-checker asks ChatGPT,
 
 Your analytics can show a visit that came from ChatGPT, but not what ChatGPT said about you, or about your competitors, before that visit. The only way to know is to ask the same questions again and again and keep every answer. This tool does that through the DataForSEO API.
 
-We first ran this check as a handful of scripts for an auto-parts retailer we work with. We asked ChatGPT, Gemini and Perplexity ten buyer questions: 3 of the 30 answers mentioned the retailer, all three on ChatGPT. On Google, 67 of the result pages we pulled for its searches carried an AI Overview, and 1 of the 67 cited the retailer's site. The answers and the searches together cost $1.17 in API calls. This tool grew out of those scripts, and adds a snapshot per run so the next check shows what moved.
+We first ran this check as a handful of scripts for an auto-parts retailer we work with. We asked ChatGPT, Gemini and Perplexity ten buyer questions: 3 of the 30 answers mentioned the retailer, all three on ChatGPT. On Google, 67 of the result pages we pulled for its searches carried an AI Overview, and 1 of the 67 cited the retailer's site. The answers and the searches together cost $1.17 in API calls. This tool grew out of those scripts, and adds a snapshot per run so the next check shows what moved. The write-up, with the first check's numbers and what a run costs: [Does ChatGPT mention your brand? Ask what your buyers ask, and count the answers](https://aistrikeforce.com/chatgpt-brand-mentions).
 
 ## Quick start
 
